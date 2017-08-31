@@ -1,5 +1,5 @@
 # php_laravel
-Projeto simples de PHP com Laravel
+Projeto simples de PHP com Laravel e MySQL
 
 # Contem
  - Exemplos comentados de: Models, Migrations, Middlewares, Seeders dentre outros
